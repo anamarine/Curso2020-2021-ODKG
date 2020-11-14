@@ -12,7 +12,7 @@ description: Open Data and Knowledge graphs - Group 2
 
 This application is based in **SPARQL-visualizer - Intro-viz**, an open source project that enables visualizing and communicating the content of a knowledge base in the RDF format. It is developed by Mads Holten, Danmarks Tekniske Universitet (DTU).
 
-[View on github](https://github.com/MadsHolten/sparql-visualizer)|[Go to app](https://madsholten.github.io/sparql-visualizer/)
+**[Github](https://github.com/MadsHolten/sparql-visualizer)** |  **[App](https://madsholten.github.io/sparql-visualizer/)**
 
 
 ## Looking for a specific contract by ID
@@ -23,10 +23,11 @@ Example contract: 202000001
 		WHERE {
 			<http://MadridPublicContracts/resources/contract/202000001> ?FIELD ?VALUE
 		}
-**Graph**
-![Contract](./assets/contract_graph.svg)
 
-**Related data**
+
+### Results
+
+**Data about the contract**
 
 |   Property                                                  |   Value                                                                                                                      | 
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------| 
@@ -42,6 +43,13 @@ Example contract: 202000001
 | "http://MadridPublicContracts/ontology/hasContractee"       | "http://MadridPublicContracts/resources/contractee/B82917063"                                                                | 
 | "http://MadridPublicContracts/ontology/isDeal"              | "false"                                                                                                                      | 
 | "http://MadridPublicContracts/ontology/unitaryAdjudication" | "false"                                                                                                                      | 
+
+**Graph**
+
+![Contract](./assets/contract_graph.svg)
+
+
+
 
 
 
