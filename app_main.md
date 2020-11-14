@@ -13,8 +13,13 @@ description: Open Data and Knowledge graphs - Group 2
 This application is based in blablabla
 
 ## Looking for a specific contract by ID
+
 Example contract: 202000001
+**Graph**
+![Contract](./assets/contract_graph.svg)
+
 **Related data**
+
 |                                                             |                                                                                                                              | 
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------| 
 | "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"           | "http://MadridPublicContracts/ontology/Contrato"                                                                             | 
@@ -31,6 +36,5 @@ Example contract: 202000001
 | "http://MadridPublicContracts/ontology/unitaryAdjudication" | "false"                                                                                                                      | 
 
 
-**Graph**
-![Contract](./assets/contract_graph.svg)
+
 
