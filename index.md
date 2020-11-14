@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Authors
+This is the application has been developed by group 2:
+- **Lucas Camarena Torres** - @Lucasct77
+- **Ana Marín Estañ** - @anamarine
+- **Blanca Rodrigo Lacave** - @brodrigol
+- **Andrés Alonso Pérez** - @AloperAndres
+- **Álvaro Fernández Calleja** - @alvarofc97
 
-You can use the [editor on GitHub](https://github.com/anamarine/Curso2020-2021-ODKG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Check our repository [here.](https://github.com/FacultadInformatica-LinkedData/Curso2020-2021-ODKG/tree/master/HandsOn/Group02)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[## About the data](https://github.com/Lucasct77/Curso2020-2021-ODKG/blob/master/HandsOn/Group02/requirements/datasetRequirements.html).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
