@@ -1,0 +1,1020 @@
+{
+  "title": "1: Madrid Public procurement",
+  "query": "CONSTRUCT\nWHERE {\n\t?nodeA ?edge ?nodeB\n}",
+  "triples": <http://MadridPublicContracts/resources/contract/202000001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00177"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasDescription> "espectaculo teatral quien es el sr schmitt en la sala principal del teatro del 16 de octubre al 10 de noviembre (t.espaol)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasContractDate> "2019-09-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B82917063>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000001> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasExpNumber> "CCV/2019/00643"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasDescription> "gestion del area de fitness del ccvm, sa."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasContractDate> "2019-04-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B82686817>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000002> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasExpNumber> "CCV/2019/00907"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasDescription> "servicio de delegado de campos de hockey para los partidos"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/54477104V>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000003> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasExpNumber> "CCV/2019/00955"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasDescription> "servicio asistencia tecnica especializada para programacion y organizacion de servicios y actividades socioculturales"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B59416479>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000004> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasExpNumber> "CCV/2019/01180"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasDescription> "reparacion de la cubierta y de reforma interior del edificio de la cuadra n.6 del ccvm, sa"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasContractType> "Obras"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasContractDate> "2019-09-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B36052876>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000005> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00225"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasDescription> "organizacion, ejecucion y representacion de espectaculos dentro del ciclo de poesia contemporanea \"poetica contemporanea\" en teatro fernan gomez. centro cultural de la villa"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/G87400339>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000006> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00224"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasDescription> "pr19-0436 representacion artistica teatral rebota rebota y en tu cara explota en la sala margarita xirgu  del 26 de diciembre de 2019 al 4 de enero de 2020(t.espaol)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/G63850283>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000007> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00079"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasDescription> "suministro maquina de 1 expendedora epis, 3 estaciones automaticas de recuperacion, reciclaje, vacio y carga para gas 134,  2 aspiradoras y 11 alfombras antifatiga - lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B74072695>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000008> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00079"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasDescription> "suministro maquina de 1 expendedora epis, 3 estaciones automaticas de recuperacion, reciclaje, vacio y carga para gas 134,  2 aspiradoras y 11 alfombras antifatiga - lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A80887201>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000009> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00079"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasDescription> "suministro maquina de 1 expendedora epis, 3 estaciones automaticas de recuperacion, reciclaje, vacio y carga para gas 134,  2 aspiradoras y 11 alfombras antifatiga - lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B81952913>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000010> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00079"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasDescription> "suministro maquina de 1 expendedora epis, 3 estaciones automaticas de recuperacion, reciclaje, vacio y carga para gas 134,  2 aspiradoras y 11 alfombras antifatiga - lote 4"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A20020277>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000011> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00226"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasDescription> "creacion, desarrollo y ejecucion del proyecto artistico \"haz que suene\" en espacio abierto la quinta de los molinos"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/G86780525>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000012> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00060"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasDescription> "servicios de estudios de topografia para las parcelas t10bc, m34b, t6b, t6a y m5c del uzi 02.01 desarrollo del este-el caaveral en el distrito de vicalvaro de madrid correspondiente a las promociones caaveral 08, caaveral 09, caaveral 10, caaveral 11, caaveral 12, promovido porempresa municipal de la vivienda y suelo de madrid, s.a."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86872579>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000013> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00062"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasDescription> "servicios de limpieza de la sede de empresa municipal de la vivienda y suelo de madrid, s.a."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28895118>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000014> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01029"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasDescription> "cabalgata de reyes 2020"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B79944864>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000015> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Moratalaz>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00063"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasDescription> "contratacion del suministro de licencias para gestion (4 lotes). lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86961877>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000016> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00063"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias para gestion (4 lotes). lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86961877>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000017> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00063"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasDescription> "contratacion del suministro de licencias para gestion (4 lotes). lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B87622015>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000018> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00063"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasDescription> "contratacion del suministro de licencias para gestion (4 lotes). lote 4"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B87622015>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000019> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00227"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasDescription> "representacion artistica de obra teatral \"mago de oz\" en centro cultural conde duque"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/52990809M>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000020> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2018/01331"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasDescription> "actividades complementarias a la educacion en los centros educativos del distrito de hortaleza. lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasContractDate> "2019-05-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B78342615>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000021> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Hortaleza>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00215"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasDescription> "suministro de planos de evacuacion en braille para madrid destino"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado sumario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B95341178>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000022> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00230"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasDescription> "organizacion, ejecucion y representacion de los obras de teatro de titeres dentro de la 2 edicicion del festival \"madrionetas. el arte del titere\" en teatro fernan gomez. centro cultural de la villa"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasContractDate> "2019-05-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86826039>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000023> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00210"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasDescription> "contrato de servicios denominado contrato para la prestacion del servicio de actividades culturales y de ocio en el distrito de chamartin (4 lotes). lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B80180896>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000024> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Chamart%C3%ADn>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00210"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasDescription> "contrato de servicios denominado contrato para la prestacion del servicio de actividades culturales y de ocio en el distrito de chamartin (4 lotes). lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B84673334>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000025> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Chamart%C3%ADn>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00210"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasDescription> "contrato de servicios denominado contrato para la prestacion del servicio de actividades culturales y de ocio en el distrito de chamartin (4 lotes). lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B81650137>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000026> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Chamart%C3%ADn>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00180"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasDescription> "servicio de mantenimiento de aparatos elevadores e instalaciones electromecanicas de los edificios que gestiona la secretaria general tecnica de la gerencia de la ciudad."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasContractDate> "2019-05-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28011153>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000027> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00210"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasDescription> "contrato de servicios denominado contrato para la prestacion del servicio de actividades culturales y de ocio en el distrito de chamartin (4 lotes)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86700796>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000028> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Chamart%C3%ADn>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00534"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasDescription> "servicio de animacion sociocultural en los centros municipales de mayores del distrito de chamartin"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/G80633993>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000029> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Chamart%C3%ADn>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00101"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasDescription> "suministro de los componentes necesarios para la elaboracion de 3.000 litros de mezcla de esmalte acrilico azul ral 5015"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasContractDate> "2019-08-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B54899117>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000030> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasExpNumber> "135/2018/00230"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasDescription> "acuerdo marco de servicios para la contratacion centralizada de trabajos de apoyo a la ejecucion de obras en el ayuntamiento de madrid y sus organismos autonomos (4 lotes) lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasContractDate> "2019-01-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B81040503>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/isDeal> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000031> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00115"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasDescription> "mantenimiento de maquinas de autoliquidacion, cambio y dispensacion de efectivo de las agencias de recaudacion"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A84752831>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000032> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00122"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasDescription> "suministro mediante renting de una maquina multifuncion de alto volumen a4 (fotocopiadora, impresora y escaner)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28122125>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000033> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasExpNumber> "EMT/2019/00043"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasDescription> "mantenimiento de los sistemas de proteccion contra incendios y de los sistemas de deteccion de gases y extraccion forzada en las instalaciones de la emt de madrid"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A60470127>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000034> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01205"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasDescription> "cabalgatas de reyes magos villaverde oeste y este y carnaval 2020. lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasContractDate> "2019-04-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B79944864>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000035> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Villaverde>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00193"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasDescription> "coordinacion y comisariado de las actividades ligadas a las lineas de actuacion autofabricantes y laboratorio de arte y cuerpo (late) dentro del programa \"laboratorio cuerpo, salud y autonomia\" financiado por la fundacion daniel y nina carasso en medialab-prado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/G87910758>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000036> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00033"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasDescription> "contrato para la realizacion de ludotecas en dos centros publicos del distrito de hortaleza durante los periodos de vacaciones escolares"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B81748808>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000037> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Hortaleza>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasExpNumber> "135/2018/00230"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasDescription> "acuerdo marco de servicios para la contratacion centralizada de trabajos de apoyo a la ejecucion de obras en el ayuntamiento de madrid y sus organismos autonomos (4 lotes)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasContractDate> "2019-01-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B81480352>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/isDeal> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000038> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasExpNumber> "135/2018/00230"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasDescription> "acuerdo marco de servicios para la contratacion centralizada de trabajos de apoyo a la ejecucion de obras en el ayuntamiento de madrid y sus organismos autonomos (4 lotes)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasContractDate> "2019-01-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/U88391644>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/isDeal> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000039> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasExpNumber> "135/2018/00230"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasDescription> "acuerdo marco de servicios para la contratacion centralizada de trabajos de apoyo a la ejecucion de obras en el ayuntamiento de madrid y sus organismos autonomos (4 lotes). lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasContractDate> "2019-01-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A98030604>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/isDeal> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000040> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00231"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasDescription> "ejecucion y desarrollo de las representaciones artisticas \"fiers a cheval\" de la compagnie des quidams y \"la parade amoureuse\" de la compagnie remue menage,, espectaculos pasacalles de la cabalgata de reyes magos 2020"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/36956866Y>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000041> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00064"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias de software (6 lotes). lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B91428607>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000042> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00064"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias de software (6 lotes). lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28855260>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000043> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00064"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias de software (6 lotes). lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28855260>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000044> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00064"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias de software (6 lotes). lote 4"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A79054748>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000045> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00064"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias de software (6 lotes). lote 6"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B85730166>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000046> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00202"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasDescription> "contratacion por lotes del suministro de productos alimenticios y bebidas en el teatro circo price. lote 1 suministro de refrescos"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86561412>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000047> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00202"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasDescription> "contratacion por lotes del suministro de productos alimenticios y bebidas en el teatro circo price. lote 2 suministro de cervezas y agua"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28078202>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000048> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00202"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasDescription> "contratacion por lotes del suministro de productos alimenticios y bebidas en el teatro circo price. lote 4 suministro de snacks"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/V01477355>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000049> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00237"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasDescription> "suministro en regimen de arrendamiento de material de audiovisual, incluido su transporte, montaje, mantenimiento y desmontaje, asi como la verificacion de su correcto funcionamiento y su manejo por el personal tecnico, a instalar con motivo de la actividad cultural que desarrolle madrid destino"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86273133>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000050> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00238"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasDescription> "suministro en regimen de arrendamiento de escenarios, torres de iluminacion, sonido y audiovisuales, planchada, tarimas tipo rosco, plataformas pmr y plataformas, incluido su transporte, montaje, mantenimiento y desmontaje, asi como la verificacion de su correcto funcionamiento y su manejo por el personal tecnico, a instalar con motivo de la actividad cultural que desarrolle madrid destino"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B19658855>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000051> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00202"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasDescription> "contratacion por lotes del suministro de productos alimenticios y bebidas en el teatro circo price. lote 3 suministro de maiz, aceite y sal para palomitas"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A59033647>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000052> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2018/01245"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasDescription> "servicios de informacion y atencion al publico en instituciones de los departamentos de museos y de exposiciones, dependientes de la direccion general de bibliotecas, archivos y museos."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasContractDate> "2019-08-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B84495837>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000053> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00235"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasDescription> "suministro en regimen de arrendamiento de material de iluminacion, incluido su transporte, montaje, mantenimiento y desmontaje, asi como la verificacion de su correcto funcionamiento y su manejo por el personal tecnico, a instalar con motivo de la actividad cultural que desarrolle madrid destino"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B82789389>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000054> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00057"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasDescription> "servicios de elaboracion del proyecto basico, proyecto de ejecucion, direccion de obra y direccion de ejecucion de obra, coordinacion de seguridad y salud y trabajos complementarios del lote 3- caaveral 05."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasContractDate> "2019-02-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/U90456393>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000055> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01205"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasDescription> "cabalgatas de reyes magos villaverde oeste y este y carnaval 2020. lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasContractDate> "2019-04-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B45613981>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000056> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Villaverde>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00236"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasDescription> "suministro en regimen de arrendamiento de material de sonido, incluido su transporte, montaje, mantenimiento y desmontaje, asi como la verificacion de su correcto funcionamiento y su manejo por el personal tecnico, a instalar con motivo de la actividad cultural que desarrolle madrid destino"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasContractDate> "2019-09-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28733897>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000057> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasExpNumber> "MER/2019/00018"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasDescription> "suministro  e instalacion de un conjunto de pantallas en el mercado central de pescados"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasProcedure> "Ordinario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasContractDate> "2019-04-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B84044205>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000058> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00432"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasDescription> "visitas guiadas de la direccion general de intervencion en el paisaje urbano y el patrimonio cultural"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasContractDate> "2019-07-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A08602815>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000059> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasExpNumber> "MER/2019/00027"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasDescription> "servicios de control de las poblaciones de aves en la unidad alimentaria mercamadrid"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasProcedure> "Ordinario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasContractDate> "2019-04-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B84943091>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000060> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00240"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasDescription> "servicio de mantenimiento, gestion y operacion de comunicaciones para el palacio de cibeles de madrid"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A82734377>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000061> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00247"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasDescription> "suministro en regimen de arrendamiento del material de iluminacion, incluido su transporte, montaje, mantenimiento y desmontaje, asi como la verificacion de su correcto funcionamiento y su manejo por personal tecnico, a instalar con motivo de la celebracion del espectaculo el price en navidad 2019 y el festival inverfest 2020"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B82789389>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000062> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00064"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasDescription> "suministro de licencias de software (6 lotes). lote 5"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A79054748>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000063> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00058"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasDescription> "suministro de 5 ordenadores portatiles"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado sumario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A25027145>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000064> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasExpNumber> "EVS/2019/00059"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasDescription> "obras de vallado de la parcela 6.3 de la colonia nuestra seora de los angeles 3, en el distrito de puente de vallecas"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasContractType> "Obras"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado sumario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A78260429>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000065> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00282"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasDescription> "contrato de servicios para el asesoramiento integral a entidades y colectivos de la ciudad de madrid, a adjudicar por procedimiento abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/G62090535>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000066> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasExpNumber> "171/2019/00304"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasDescription> "realizacion de actividades de expresion dramatica con personas con discapacidad en 25 centros, (de educacion especial, centros ocupacionales y centros de dia) del municipio de madrid, incluyendo formacion a los responsables de los grupos, materiales teoricos y tecnicos, asesoramiento a lo largo del curso para el desarrollo de los talleres teatrales, asi como la organizacion y coordinacion de un certamen final con los montajes, incluidos los servicios de sonido y la gestion del acceso y aforo del local."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B82527581>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000067> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01200"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasDescription> "acompaamiento a los proyectos de participacion infantil y juvenil en el distrito de retiro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B81590606>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000068> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Retiro>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01193"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasDescription> "suministro de instrumentos musicales para la creacion de orquestas escolares"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado sumario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28415610>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000069> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Retiro>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00356"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasDescription> "organizacion e imparticion, en modalidad virtual, de diferentes actividades formativas incluidas en los planes de formacion del ayuntamiento de madrid de 2019 y 2020. lote 4"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B70223599>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000070> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00356"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasDescription> "organizacion e imparticion, en modalidad virtual, de diferentes actividades formativas incluidas en los planes de formacion del ayuntamiento de madrid de 2019 y 2020. lote 5"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B70223599>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000071> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00356"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasDescription> "organizacion e imparticion, en modalidad virtual, de diferentes actividades formativas incluidas en los planes de formacion del ayuntamiento de madrid de 2019 y 2020. lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B70223599>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000072> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00356"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasDescription> "organizacion e imparticion, en modalidad virtual, de diferentes actividades formativas incluidas en los planes de formacion del ayuntamiento de madrid de 2019 y 2020. lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A29584315>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000073> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00407"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasDescription> "arrendamiento, incluido su mantenimiento, de las suscripciones del sistema de gestor de base de datos postgres."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28816379>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000074> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00519"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasDescription> "servicios tecnicos de iluminacion, montaje, sonido y labores auxiliares necesarios para el desarrollo de las actividades ordinarias y extraordinarias del distrito de latina"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/50086068A>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000075> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Latina>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01492"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasDescription> "suministro de consumibles informaticos para determinados equipos de impresion del organismo autonomo agencia tributaria madrid."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado sumario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B32212557>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000076> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/01205"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasDescription> "cabalgatas de reyes magos villaverde oeste y este y carnaval 2020. lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasContractDate> "2019-04-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B86700796>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000077> <http://MadridPublicContracts/ontology/hasContractor> <http://MadridPublicContracts/resources/junta/Junta%20Municipal%20del%20Distrito%20de%20Villaverde>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00233"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasDescription> "representacion de dos conciertos, melani di biasio y david virelles junto con master class de jazz dentro del programa \"suena conde duque iv\" en el auditorio del centro cultural conde duque"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasContractDate> "2019-05-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B85650505>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000078> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00244"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasDescription> "mantenimiento preventivo y correctivo de la instalacion hidraulica de agua contraincendios de los vehiculos en propiedad, auetoescaleras  y brazo articulado de la jefatura del cuerpo de bomberos del ayuntamiento de madrid. lote 1"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasContractDate> "2019-08-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B80713191>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000079> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00244"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasDescription> "mantenimiento preventivo y correctivo de la instalacion hidraulica de agua contraincendios de los vehiculos en propiedad, auetoescaleras  y brazo articulado de la jefatura del cuerpo de bomberos del ayuntamiento de madrid. lote 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasContractDate> "2019-08-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A41050113>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000080> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00244"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasDescription> "mantenimiento preventivo y correctivo de la instalacion hidraulica de agua contraincendios de los vehiculos en propiedad, auetoescaleras  y brazo articulado de la jefatura del cuerpo de bomberos del ayuntamiento de madrid. lote 3"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28859833>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000081> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00244"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasDescription> "mantenimiento preventivo y correctivo de la instalacion hidraulica de agua contraincendios de los vehiculos en propiedad, auetoescaleras  y brazo articulado de la jefatura del cuerpo de bomberos del ayuntamiento de madrid. lote 4"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasContractDate> "2019-08-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A36633600>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000082> <http://MadridPublicContracts/ontology/unitaryAdjudication> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasExpNumber> "300/2019/00102"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasDescription> "servicio de orientacion juridica generalista para las personas usuarias de los centros de servicios sociales, y para las personas socias de los centros municipales de mayores del ayuntamiento de madrid."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasContractDate> "2019-06-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B85784106>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000083> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasExpNumber> "MER/2019/00029"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasDescription> "servicios de correduria de seguros, contratacion de polizas de seguro a traves de mediador 2020 y 2021"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasProcedure> "Ordinario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/A28109247>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000084> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00249"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasDescription> "suministro, produccion, instalacion, desmontaje y recolocacion de banderolas sobre farolas, para las campaas de comunicacion de madrid destino"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasContractType> "Suministro"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B64251366>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000085> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00241"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasDescription> "servicio de traduccion y subtitulado de audiovisuales para la cineteca, dentro de matadero madrid"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasContractDate> "2019-10-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B83814871>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000086> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00244"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasDescription> "pr19-00244 garabato de escultura gixot8 (navidad)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/77272367A>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000087> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00258"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasDescription> "servicio de auditoria financiera de las cuentas anuales para los ejercicios 2019-2020-2021 de madrid destino cultura, turismo y negocio, s.a."^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasCriteria> "Pluralidad de criterios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasContractDate> "2019-09-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B83887125>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000088> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00245"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasDescription> "pr19-0430 taller participativo infantil titulado \"cartas viajeras. el retablo\" en la galeria de cristal del palacio de cibeles (navidad)"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasProcedure> "Negociado sin publicidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasArticle> "168"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasSection> "a) apartado 2"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasContractDate> "2019-12-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/50321710X>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000089> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://MadridPublicContracts/ontology/Contrato>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasMonth> "Enero"^^<http://www.w3.org/2001/XMLSchema#gMonth>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasExpNumber> "MDC/2019/00222"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasDescription> "servicio de prevencion ajeno para la prestacion de la figura de recurso preventivo y elaboracion de documentacion tecnica de prevencion de riesgos laborales para las actividades incluidas en la campaa de navidad"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasContractType> "Servicios"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasProcedure> "Abierto simplificado sumario"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasCriteria> "Un unico criterio"^^<http://www.w3.org/2001/XMLSchema#string>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasContractDate> "2019-11-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/hasContractee> <http://MadridPublicContracts/resources/contractee/B85808335>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/isDeal> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.
+<http://MadridPublicContracts/resources/contract/202000090> <http://MadridPublicContracts/ontology/unitaryAdjudication> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>.",
+  "description": "ODKG 2020 - Group 2."
+}
