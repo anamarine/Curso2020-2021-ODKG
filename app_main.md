@@ -27,12 +27,7 @@ Example contract: 202000001
 
 ### Results
 
-**Graph**
-
-![Contract](./assets/contract_graph.svg)
-
-
-**Related data**
+**Data about the contract**
 
 |   Property                                                  |   Value                                                                                                                      | 
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------| 
@@ -48,6 +43,13 @@ Example contract: 202000001
 | "http://MadridPublicContracts/ontology/hasContractee"       | "http://MadridPublicContracts/resources/contractee/B82917063"                                                                | 
 | "http://MadridPublicContracts/ontology/isDeal"              | "false"                                                                                                                      | 
 | "http://MadridPublicContracts/ontology/unitaryAdjudication" | "false"                                                                                                                      | 
+
+**Graph**
+
+![Contract](./assets/contract_graph.svg)
+
+
+
 
 
 
