@@ -12,7 +12,9 @@ description: Open Data and Knowledge graphs - Group 2
 
 This application is based in **SPARQL-visualizer - Intro-viz**, an open source project that enables visualizing and communicating the content of a knowledge base in the RDF format. It is developed by Mads Holten, Danmarks Tekniske Universitet (DTU).
 
-[View on github](https://github.com/MadsHolten/sparql-visualizer)|[Go to app](https://madsholten.github.io/sparql-visualizer/)
+**[View on github](https://github.com/MadsHolten/sparql-visualizer)** 
+
+**[Go to app](https://madsholten.github.io/sparql-visualizer/) |**
 
 
 ## Looking for a specific contract by ID
