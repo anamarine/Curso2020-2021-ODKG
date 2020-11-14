@@ -23,8 +23,11 @@ Example contract: 202000001
 		WHERE {
 			<http://MadridPublicContracts/resources/contract/202000001> ?FIELD ?VALUE
 		}
+
 **Graph**
+
 ![Contract](./assets/contract_graph.svg)
+
 
 **Related data**
 
