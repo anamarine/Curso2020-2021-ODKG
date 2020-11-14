@@ -16,10 +16,10 @@ This application is based in blablabla
 
 Example contract: 202000001
 
-		SELECT ?FIELD ?VALUE
-			WHERE {
-				<http://MadridPublicContracts/resources/contract/202000001> ?FIELD ?VALUE
-			}
+	SELECT ?FIELD ?VALUE
+		WHERE {
+			<http://MadridPublicContracts/resources/contract/202000001> ?FIELD ?VALUE
+		}
 **Graph**
 ![Contract](./assets/contract_graph.svg)
 
