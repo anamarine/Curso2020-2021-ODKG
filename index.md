@@ -1,5 +1,5 @@
 # Authors
-This is the application has been developed by group 2:
+This is the application developed by group 2:
 - **Lucas Camarena Torres** - @Lucasct77
 - **Ana Marín Estañ** - @anamarine
 - **Blanca Rodrigo Lacave** - @brodrigol
