@@ -24,6 +24,9 @@ Example contract: 202000001
 			<http://MadridPublicContracts/resources/contract/202000001> ?FIELD ?VALUE
 		}
 
+
+###Results
+
 **Graph**
 
 ![Contract](./assets/contract_graph.svg)
