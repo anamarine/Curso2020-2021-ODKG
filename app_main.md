@@ -20,7 +20,7 @@ Example contract: 202000001
 
 **Related data**
 
-|                                                             |                                                                                                                              | 
+|   Property                                                  |   Value                                                                                                                      | 
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------| 
 | "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"           | "http://MadridPublicContracts/ontology/Contrato"                                                                             | 
 | "http://MadridPublicContracts/ontology/hasMonth"            | "Enero"                                                                                                                      | 
