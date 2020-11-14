@@ -29,6 +29,8 @@ Example contract: 202000001
 | "http://MadridPublicContracts/ontology/hasContractee"       | "http://MadridPublicContracts/resources/contractee/B82917063"                                                                | 
 | "http://MadridPublicContracts/ontology/isDeal"              | "false"                                                                                                                      | 
 | "http://MadridPublicContracts/ontology/unitaryAdjudication" | "false"                                                                                                                      | 
+
+
 **Graph**
 ![Contract](./assets/contract_graph.svg)
 
