@@ -8,7 +8,7 @@ This is the application has been developed by group 2:
 
 Check our repository [here.](https://github.com/FacultadInformatica-LinkedData/Curso2020-2021-ODKG/tree/master/HandsOn/Group02)
 
-[## About the data](https://github.com/Lucasct77/Curso2020-2021-ODKG/blob/master/HandsOn/Group02/requirements/datasetRequirements.html).
+## [About the data](./datasetRequirements.html).
 
 
 ```markdown
