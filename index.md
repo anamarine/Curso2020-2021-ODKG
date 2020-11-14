@@ -10,7 +10,7 @@ Check our repository [here.](https://github.com/FacultadInformatica-LinkedData/C
 
 * * *
 
-# [Sample data retreival](./queries.html) 
+# [Go to application](./app_main.html) 
 
 * * *
 
