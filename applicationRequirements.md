@@ -20,4 +20,4 @@ The app will be divided in 3 windows:
 3. **Contract profile:** in this window, users can check the information related to one spicific contract and if the contracting entity corresponds to a City District Board, contact data about the entity will be also available.
 
 ## Application Mockup
-![app mock](https://github.com/Lucasct77/Curso2020-2021-ODKG/blob/master/HandsOn/Group02/requirements/app_mock.png)
+![app mock](./app_mock.png)
