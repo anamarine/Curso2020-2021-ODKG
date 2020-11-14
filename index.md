@@ -1,3 +1,4 @@
+| [About the data](./datasetRequirements.html) | [About the application](./datasetRequirements.html)  | [About another thing](./datasetRequirements.html)  |
 ## Authors
 This is the application has been developed by group 2:
 - **Lucas Camarena Torres** - @Lucasct77
@@ -8,7 +9,6 @@ This is the application has been developed by group 2:
 
 Check our repository [here.](https://github.com/FacultadInformatica-LinkedData/Curso2020-2021-ODKG/tree/master/HandsOn/Group02)
 
-## [About the data](./datasetRequirements.html).
 
 
 ```markdown
