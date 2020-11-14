@@ -12,4 +12,23 @@ description: Open Data and Knowledge graphs - Group 2
 
 This application is based in blablabla
 
-![BigGraph](./all_data.svg)
+## Looking for a specific contract by ID
+Example contract: 202000001
+**Related data**
+|                                                             |                                                                                                                              | 
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------| 
+| "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"           | "http://MadridPublicContracts/ontology/Contrato"                                                                             | 
+| "http://MadridPublicContracts/ontology/hasMonth"            | "Enero"                                                                                                                      | 
+| "http://MadridPublicContracts/ontology/hasExpNumber"        | "MDC/2019/00177"                                                                                                             | 
+| "http://MadridPublicContracts/ontology/hasDescription"      | "espectaculo teatral quien es el sr schmitt en la sala principal del teatro del 16 de octubre al 10 de noviembre (t.espaol)" | 
+| "http://MadridPublicContracts/ontology/hasContractType"     | "Servicios"                                                                                                                  | 
+| "http://MadridPublicContracts/ontology/hasProcedure"        | "Negociado sin publicidad"                                                                                                   | 
+| "http://MadridPublicContracts/ontology/hasArticle"          | "168"                                                                                                                        | 
+| "http://MadridPublicContracts/ontology/hasSection"          | "a) apartado 2"                                                                                                              | 
+| "http://MadridPublicContracts/ontology/hasContractDate"     | "2019-09-13T00:00:00Z"                                                                                                       | 
+| "http://MadridPublicContracts/ontology/hasContractee"       | "http://MadridPublicContracts/resources/contractee/B82917063"                                                                | 
+| "http://MadridPublicContracts/ontology/isDeal"              | "false"                                                                                                                      | 
+| "http://MadridPublicContracts/ontology/unitaryAdjudication" | "false"                                                                                                                      | 
+**Graph**
+![Contract](./assets/contract_graph.svg)
+
