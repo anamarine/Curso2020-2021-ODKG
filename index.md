@@ -1,5 +1,7 @@
-| [About the data](./datasetRequirements.html)         | [About the application](./datasetRequirements.html)  | [About another thing](./datasetRequirements.html)  |
-|:-----------------------------------------------------|:-----------------------------------------------------|:-----------------------------------------------------|
+[About the data](./datasetRequirements.html)    [About the application](./datasetRequirements.html)   [About another thing](./datasetRequirements.html)
+
+* * *
+
 ## Authors
 This is the application has been developed by group 2:
 - **Lucas Camarena Torres** - @Lucasct77
