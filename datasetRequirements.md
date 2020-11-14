@@ -14,7 +14,8 @@ description: Open Data and Knowledge graphs - Group 2
 
 [General data about City District Boards](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=a73ecfba69326410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
 
-**Description:** Basic data of the contracts awarded in 2020 by the different Public Administrations and other public sector entities subject to the aforementioned regulations. It includes, among other data, the contracting entity, the type of contract, the contract and advertisement data, and the link to the documentation.
+### Description:
+Basic data of the contracts awarded in 2020 by the different Public Administrations and other public sector entities subject to the aforementioned regulations. It includes, among other data, the contracting entity, the type of contract, the contract and advertisement data, and the link to the documentation.
 
 Also, a dataset about about City District Boards is included. Relevant information abaut tose entities (such as contact information, address...) can be found in this dataset.
 
