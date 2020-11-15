@@ -14,14 +14,13 @@ Check out our repository [here.](https://github.com/FacultadInformatica-LinkedDa
 
 * * *
 
-# [Go to application](./app_main.html) 
-
-* * *
-
 # [About the data](./datasetRequirements.html) 
 
 * * *
 
 # [About the application](./applicationRequirements.html) 
 
+* * *
+
+# [Go to application](./app_main.html) 
 
