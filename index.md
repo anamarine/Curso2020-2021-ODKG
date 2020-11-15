@@ -10,6 +10,10 @@ Check out our repository [here.](https://github.com/FacultadInformatica-LinkedDa
 
 * * *
 
+# [Ontology](./ontology.html) 
+
+* * *
+
 # [Go to application](./app_main.html) 
 
 * * *
