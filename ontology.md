@@ -12,6 +12,8 @@ description: Open Data and Knowledge graphs - Group 2
 
 This is the developed ontology for the selected data.
 
+![app mock](./assets/ontology.png)
+
 	@prefix : <http://MadridPublicContracts/ontology/> .
 	@prefix owl: <http://www.w3.org/2002/07/owl#> .
 	@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
