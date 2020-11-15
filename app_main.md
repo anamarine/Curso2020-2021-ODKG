@@ -243,4 +243,4 @@ For developing this query, a regex filter was implemented to seach for contracts
 
 Pie chart
 
-![Pie chart](./assets/pie_chart.png)
+![Pie chart](./assets/pie_chart2.png)
